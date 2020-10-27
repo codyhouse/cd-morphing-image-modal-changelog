@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Morphing Image Modal - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Morphing Image Modal component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/morphing-image-modal)
+- [Info Page](https://codyhouse.co/ds/components/info/morphing-image-modal)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
